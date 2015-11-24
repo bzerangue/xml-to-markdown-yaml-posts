@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<params>
+		<today>2015-11-21</today>
+		<current-time>23:07</current-time>
+		<this-year>2015</this-year>
+		<this-month>11</this-month>
+		<this-day>21</this-day>
+		<timezone>-06:00</timezone>
+		<website-name>North Texas Presbytery (Presbyterian Church in America)</website-name>
+		<page-title>Churches XML</page-title>
+		<root>http://ntpresby.sym</root>
+		<workspace>http://ntpresby.sym/workspace</workspace>
+		<root-page>churches</root-page>
+		<current-page>xml</current-page>
+		<current-page-id>90</current-page-id>
+		<current-path>/churches/xml</current-path>
+		<parent-path>/churches</parent-path>
+		<current-query-string>?</current-query-string>
+		<current-url>http://ntpresby.sym/churches/xml</current-url>
+		<upload-limit>25242880</upload-limit>
+		<symphony-version>2.3.6</symphony-version>
+		<id/>
+		<page-types>
+			<item handle="hidden">hidden</item>
+			<item handle="xml">XML</item>
+		</page-types>
+		<site-mode>live</site-mode>
+	</params>
+	<events/>
+	<churches-by-id>
+		<section id="14" handle="churches">Churches</section>
+		<entry id="115" people="1" events="0" states="1">
+			<display-name handle="arlington-presbyterian-church-arlington">Arlington Presbyterian Church - Arlington</display-name>
+			<name handle="arlington-presbyterian-church">Arlington Presbyterian Church</name>
+			<street-address handle="1320-west-pioneer-parkway">1320 West Pioneer Parkway</street-address>
+			<city handle="arlington">Arlington</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76013">76013</zip-code>
+			<main-phone handle="817-261-8938">817-261-8938</main-phone>
+			<website handle="http-wwwapcweborg">http://www.apcweb.org</website>
+			<sermon-podcast-link handle="http-feedsfeedburnercom-ntp-arlingtonpca">http://feeds.feedburner.com/ntp_arlingtonpca</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="145" people="2" events="0" states="1">
+			<display-name handle="beal-heights-presbyterian-church-lawton">Beal Heights Presbyterian Church - Lawton</display-name>
+			<name handle="beal-heights-presbyterian-church">Beal Heights Presbyterian Church</name>
+			<street-address handle="614-sw-park-ave">614 SW Park Ave</street-address>
+			<city handle="lawton">Lawton</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="73501">73501</zip-code>
+			<main-phone handle="580-355-4702">580-355-4702</main-phone>
+			<website handle="http-wwwbealheightsorg">http://www.bealheights.org</website>
+			<sermon-podcast-link handle="http-wwwbealheightsorg-feeds-sermons">http://www.bealheights.org/feeds/sermons</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="118" people="2" events="1" states="1">
+			<display-name handle="bethel-church-dallas">Bethel Church - Dallas</display-name>
+			<name handle="bethel-church">Bethel Church</name>
+			<street-address handle="17990-midway-road">17990 Midway Road</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75287">75287</zip-code>
+			<main-phone handle="972-248-4401">972-248-4401</main-phone>
+			<website handle="http-wwwbethelchurchpcaorg">http://www.bethelchurchpca.org</website>
+			<sermon-podcast-link handle="http-ntpresbyorg-workspace-static-xml-feeds-bethel-pca-sermonsxml">http://ntpresby.org/workspace/static-xml/feeds/bethel-pca/sermons.xml</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="378" people="1" events="0" states="1">
+			<display-name handle="christ-church-carrollton">Christ Church - Carrollton</display-name>
+			<name handle="christ-church">Christ Church</name>
+			<street-address handle="the-oldfield-building-1101-s-broadway-suite-120">The Oldfield Building, 1101 S. Broadway, Suite 120</street-address>
+			<city handle="carrollton">Carrollton</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75006">75006</zip-code>
+			<main-phone handle="972-672-1388">972-672-1388</main-phone>
+			<website handle="http-our3corg">http://our3c.org</website>
+			<facebook-page handle="http-wwwfacebookcom-our3c">http://www.facebook.com/our3c</facebook-page>
+			<mission-church>No</mission-church>
+			<note mode="formatted">
+</note>
+		</entry>
+		<entry id="238" people="0" events="0" states="1">
+			<display-name handle="christ-community-church-frisco">Christ Community Church - Frisco</display-name>
+			<name handle="christ-community-church">Christ Community Church</name>
+			<street-address handle="9250-pasadena-drive-suite-100">9250 Pasadena Drive, Suite 100</street-address>
+			<city handle="frisco">Frisco</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75034">75034</zip-code>
+			<main-phone handle="469-200-3442">469-200-3442</main-phone>
+			<website handle="http-wwwcccfriscoorg">http://www.cccfrisco.org</website>
+			<mission-church>No</mission-church>
+			<note mode="formatted">
+</note>
+		</entry>
+		<entry id="144" people="1" events="0" states="1">
+			<display-name handle="christ-presbyterian-church-claremore">Christ Presbyterian Church - Claremore</display-name>
+			<name handle="christ-presbyterian-church">Christ Presbyterian Church</name>
+			<street-address handle="310-n-weenonah-ave">310 N Weenonah Ave</street-address>
+			<city handle="claremore">Claremore</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="74017">74017</zip-code>
+			<main-phone handle="918-342-5134">918-342-5134</main-phone>
+			<facebook-page handle="http-wwwfacebookcom-pages-christ-presbyterian-church-116564281700845">http://www.facebook.com/pages/Christ-Presbyterian-Church/116564281700845</facebook-page>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="126" people="4" events="1" states="1">
+			<display-name handle="christ-presbyterian-church-flower-mound">Christ Presbyterian Church - Flower Mound</display-name>
+			<name handle="christ-presbyterian-church">Christ Presbyterian Church</name>
+			<street-address handle="3410-peters-colony-road">3410 Peters Colony Road</street-address>
+			<city handle="flower-mound">Flower Mound</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75022">75022</zip-code>
+			<main-phone handle="972-355-5892">972-355-5892</main-phone>
+			<website handle="http-wwwchristpresbyterianorg">http://www.christpresbyterian.org</website>
+			<sermon-podcast-link handle="http-ntpresbyorg-workspace-static-xml-feeds-christ-pres-flower-mound-sermonsxml">http://ntpresby.org/workspace/static-xml/feeds/christ-pres-flower-mound/sermons.xml</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="351" people="1" events="0" states="1">
+			<display-name handle="christ-presbyterian-church-mansfield">Christ Presbyterian Church - Mansfield</display-name>
+			<name handle="christ-presbyterian-church">Christ Presbyterian Church</name>
+			<street-address handle="1526-n-walnut-creek-dr">1526 N Walnut Creek Dr.</street-address>
+			<city handle="mansfield">Mansfield</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76063">76063</zip-code>
+			<website handle="http-cpcmansfieldorg">http://cpcmansfield.org</website>
+			<sermon-podcast-link handle="http-cpcmansfieldorg-podcastphp-pageid=6">http://cpcmansfield.org/podcast.php?pageID=6</sermon-podcast-link>
+			<mission-church>Yes</mission-church>
+		</entry>
+		<entry id="149" people="2" events="0" states="1">
+			<display-name handle="christ-presbyterian-church-tulsa">Christ Presbyterian Church - Tulsa</display-name>
+			<name handle="christ-presbyterian-church">Christ Presbyterian Church</name>
+			<street-address handle="2706-e-51st-st">2706 E. 51st St</street-address>
+			<city handle="tulsa">Tulsa</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<main-phone handle="918-749-1629">918-749-1629</main-phone>
+			<website handle="http-wwwcpctulsacom">http://www.cpctulsa.com</website>
+			<sermon-podcast-link handle="http-feeds2feedburnercom-ntp-cpctulsa">http://feeds2.feedburner.com/ntp_cpctulsa</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="348" people="1" events="0" states="1">
+			<display-name handle="christ-the-king-church-desoto">Christ the King Church - DeSoto</display-name>
+			<name handle="christ-the-king-church">Christ the King Church</name>
+			<street-address handle="the-canterbury-episcopal-school-1708-n-westmoreland-rd">The Canterbury Episcopal School, 1708 N Westmoreland Rd</street-address>
+			<city handle="desoto">DeSoto</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75115">75115</zip-code>
+			<website handle="http-ctktexascom">http://ctktexas.com</website>
+			<mission-church>No</mission-church>
+			<note mode="formatted">
+</note>
+		</entry>
+		<entry id="147" people="2" events="0" states="1">
+			<display-name handle="christ-the-king-presbyterian-church-norman">Christ the King Presbyterian Church - Norman</display-name>
+			<name handle="christ-the-king-presbyterian-church">Christ the King Presbyterian Church</name>
+			<street-address handle="2424-springer-drive-suite-100">2424 Springer Drive, Suite 100</street-address>
+			<city handle="norman">Norman</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="73069">73069</zip-code>
+			<main-phone handle="405-364-6722">405-364-6722</main-phone>
+			<website handle="http-wwwctknormanorg">http://www.ctknorman.org</website>
+			<sermon-podcast-link handle="http-feeds2feedburnercom-ctksermonpodcast">http://feeds2.feedburner.com/CtkSermonPodcast</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="365" people="2" events="0" states="1">
+			<display-name handle="city-presbyterian-church-oklahoma-city">City Presbyterian Church - Oklahoma City</display-name>
+			<name handle="city-presbyterian-church">City Presbyterian Church</name>
+			<street-address handle="829-nw-13th">829 NW 13th</street-address>
+			<city handle="oklahoma-city">Oklahoma City</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="73107">73107</zip-code>
+			<website handle="http-citypresokccom">http://citypresokc.com/</website>
+			<facebook-page handle="https-wwwfacebookcom-citypresokc">https://www.facebook.com/citypresokc</facebook-page>
+			<twitter handle="http-twittercom-citypresokc">http://twitter.com/citypresokc</twitter>
+			<vimeo-channel handle="https-vimeocom-citypresokc">https://vimeo.com/citypresokc</vimeo-channel>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="117" people="1" events="0" states="1">
+			<display-name handle="colleyville-presbyterian-church-colleyville">Colleyville Presbyterian Church - Colleyville</display-name>
+			<name handle="colleyville-presbyterian-church">Colleyville Presbyterian Church</name>
+			<street-address handle="715-cheek-sparger-road">715 Cheek Sparger Road</street-address>
+			<city handle="colleyville">Colleyville</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76034">76034</zip-code>
+			<main-phone handle="817-498-2626">817-498-2626</main-phone>
+			<website handle="http-wwwcpcpcaorg">http://www.cpcpca.org</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="119" people="1" events="0" states="1">
+			<display-name handle="cristo-rey-presbyterian-church-dallas">Cristo Rey Presbyterian Church - Dallas</display-name>
+			<name handle="cristo-rey-presbyterian-church">Cristo Rey Presbyterian Church</name>
+			<street-address handle="3353-west-northwest-hwy">3353 West Northwest Hwy</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75220">75220</zip-code>
+			<website handle="http-cristoreypcaorg">http://cristoreypca.org</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="125" people="1" events="0" states="1">
+			<display-name handle="denton-presbyterian-church-denton">Denton Presbyterian Church - Denton</display-name>
+			<name handle="denton-presbyterian-church">Denton Presbyterian Church</name>
+			<street-address handle="801-north-texas-blvd">801 North Texas Blvd</street-address>
+			<city handle="denton">Denton</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76201">76201</zip-code>
+			<website handle="http-dentonpressquarespacecom">http://dentonpres.squarespace.com/</website>
+			<sermon-podcast-link handle="http-dentonpresbyterianpodbeancom-feed">http://dentonpresbyterian.podbean.com/feed/</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="480" people="2" events="0" states="1">
+			<display-name handle="ethos-presbyterian-church-tulsa">Ethos Presbyterian Church - Tulsa</display-name>
+			<name handle="ethos-presbyterian-church">Ethos Presbyterian Church</name>
+			<street-address handle="1920-s-cincinnati-ave">1920 S Cincinnati Ave</street-address>
+			<city handle="tulsa">Tulsa</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="74119">74119</zip-code>
+			<main-phone handle="539-777-0915">539-777-0915</main-phone>
+			<website handle="http-ethostulsaorg">http://ethostulsa.org</website>
+			<sermon-podcast-link handle="http-wwwsermonaudiocom-rss-sourcerss-sourceid=ethospresbyterian-and-filter=mp3">http://www.sermonaudio.com/rss_source.rss?sourceid=ethospresbyterian&amp;filter=mp3</sermon-podcast-link>
+			<mission-church>No</mission-church>
+			<note mode="formatted">
+</note>
+		</entry>
+		<entry id="136" people="2" events="0" states="1">
+			<display-name handle="faith-presbyterian-church-paris">Faith Presbyterian Church - Paris</display-name>
+			<name handle="faith-presbyterian-church">Faith Presbyterian Church</name>
+			<street-address handle="270-20th-st-ne">270 20th St. NE</street-address>
+			<city handle="paris">Paris</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75460">75460</zip-code>
+			<main-phone handle="903-784-4806">903-784-4806</main-phone>
+			<website handle="http-faithparispcaorg">http://faithparispca.org</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="141" people="2" events="0" states="1">
+			<display-name handle="fifth-street-presbyterian-church-tyler">Fifth Street Presbyterian Church - Tyler</display-name>
+			<name handle="fifth-street-presbyterian-church">Fifth Street Presbyterian Church</name>
+			<street-address handle="1616-east-fifth-street">1616 East Fifth Street</street-address>
+			<city handle="tyler">Tyler</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75701">75701</zip-code>
+			<main-phone handle="903-592-1613">903-592-1613</main-phone>
+			<website handle="http-wwwfifthstreetpcaorg">http://www.fifthstreetpca.org/</website>
+			<sermon-podcast-link handle="http-wwwfifthstreetpcaorg-feeds-sermons">http://www.fifthstreetpca.org/feeds/sermons</sermon-podcast-link>
+			<facebook-page handle="https-wwwfacebookcom-fifthstreetpca">https://www.facebook.com/fifthstreetpca</facebook-page>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="146" people="1" events="0" states="1">
+			<display-name handle="first-reformed-presbyterian-church-minco">First Reformed Presbyterian Church - Minco</display-name>
+			<name handle="first-reformed-presbyterian-church">First Reformed Presbyterian Church</name>
+			<street-address handle="101-s-5th-street">101 S. 5th Street</street-address>
+			<city handle="minco">Minco</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="73059">73059</zip-code>
+			<main-phone handle="405-352-4966">405-352-4966</main-phone>
+			<website handle="http-frpcmincoorg">http://frpcminco.org/</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="127" people="7" events="1" states="1">
+			<display-name handle="fort-worth-presbyterian-church-fort-worth">Fort Worth Presbyterian Church - Fort Worth</display-name>
+			<name handle="fort-worth-presbyterian-church">Fort Worth Presbyterian Church</name>
+			<street-address handle="6251-oakmont-trail">6251 Oakmont Trail</street-address>
+			<city handle="fort-worth">Fort Worth</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76132">76132</zip-code>
+			<main-phone handle="817-731-3300">817-731-3300</main-phone>
+			<website handle="http-wwwfortworthpcaorg">http://www.fortworthpca.org</website>
+			<sermon-podcast-link handle="http-feeds2feedburnercom-ntp-fwpca">http://feeds2.feedburner.com/ntp_fwpca</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="394" people="1" events="0" states="1">
+			<display-name handle="grace-and-peace-presbyterian-church-anna">Grace &amp; Peace Presbyterian Church - Anna</display-name>
+			<name handle="grace-and-peace-presbyterian-church">Grace &amp; Peace Presbyterian Church</name>
+			<street-address handle="sue-evelyn-rattan-elementary-school-1686-county-road-367">Sue Evelyn Rattan Elementary School, 1686 County Road 367</street-address>
+			<city handle="anna">Anna</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75409">75409</zip-code>
+			<website handle="http-wwwgraceandpeace-pcaorg">http://www.graceandpeace-pca.org</website>
+			<mission-church>Yes</mission-church>
+		</entry>
+		<entry id="148" people="2" events="0" states="1">
+			<display-name handle="grace-stillwater">Grace - Stillwater</display-name>
+			<name handle="grace">Grace</name>
+			<street-address handle="502-s-kings-st">502 S Kings St </street-address>
+			<city handle="stillwater">Stillwater</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="74074">74074</zip-code>
+			<main-phone handle="405-334-2188">405-334-2188</main-phone>
+			<website handle="http-wwwgracestillwaterus">http://www.gracestillwater.us</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="128" people="3" events="1" states="1">
+			<display-name handle="grace-community-presbyterian-church-fort-worth">Grace Community Presbyterian Church - Fort Worth</display-name>
+			<name handle="grace-community-presbyterian-church">Grace Community Presbyterian Church</name>
+			<street-address handle="7101-n-riverside-drive">7101 N. Riverside Drive</street-address>
+			<city handle="fort-worth">Fort Worth</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76137">76137</zip-code>
+			<main-phone handle="817-847-7766">817-847-7766</main-phone>
+			<website handle="http-wwwgracecommunity-pcaorg">http://www.gracecommunity-pca.org</website>
+			<mission-church>No</mission-church>
+			<note mode="formatted"><p>http://feeds2.feedburner.com/ntp_graceftw</p>
+</note>
+		</entry>
+		<entry id="387" people="1" events="0" states="1">
+			<display-name handle="grace-presbyterian-church-shreveport">Grace Presbyterian Church - Shreveport</display-name>
+			<name handle="grace-presbyterian-church">Grace Presbyterian Church</name>
+			<street-address handle="2911-centenary-boulevard">2911 Centenary Boulevard</street-address>
+			<city handle="shreveport">Shreveport</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="414">
+					<name handle="louisiana">Louisiana</name>
+					<abbreviation handle="la">LA</abbreviation>
+					<capital handle="baton-rouge">Baton Rouge</capital>
+					<admission-into-the-union handle="1812-04-30">1812-04-30</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="la">LA</state-abbr>
+			<zip-code handle="71104">71104</zip-code>
+			<main-phone handle="318-219-5556">318-219-5556</main-phone>
+			<website handle="http-wwwgraceforshreveportorg">http://www.graceforshreveport.org</website>
+			<sermon-podcast-link handle="http-sermoncloudmonkservecom-ekk-3795-sermonsxml">http://sermoncloud.monkserve.com/EKK/3795/sermons.xml</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="193" people="1" events="0" states="1">
+			<display-name handle="heritage-presbyterian-church-edmond">Heritage Presbyterian Church - Edmond</display-name>
+			<name handle="heritage-presbyterian-church">Heritage Presbyterian Church</name>
+			<street-address handle="14500-n-western-ave">14500 N. Western Ave</street-address>
+			<city handle="edmond">Edmond</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="73013">73013</zip-code>
+			<main-phone handle="405-752-2270">405-752-2270</main-phone>
+			<website handle="http-heritagepcaorg">http://heritagepca.org</website>
+			<sermon-podcast-link handle="http-wwwsermonaudiocom-rss-sourcerss-sourceid=heritagepca">http://www.sermonaudio.com/rss_source.rss?sourceid=heritagepca</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="132" people="2" events="0" states="1">
+			<display-name handle="hill-country-church-killeen">Hill Country Church - Killeen</display-name>
+			<name handle="hill-country-church">Hill Country Church</name>
+			<street-address handle="1604-s-ws-young-drive">1604 S. WS Young Drive</street-address>
+			<city handle="killeen">Killeen</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76543">76543</zip-code>
+			<main-phone handle="254-698-4950">254-698-4950</main-phone>
+			<website handle="http-wwwhillcountrypcaorg">http://www.hillcountrypca.org</website>
+			<sermon-podcast-link handle="http-olivenowsproutingcom-hillcountrychurchpca-podcastphp-pageid=6">http://olive.nowsprouting.com/hillcountrychurchpca/podcast.php?pageID=6.</sermon-podcast-link>
+			<facebook-page handle="http-wwwfacebookcom-pages-hill-country-church-pca-147502275306176">http://www.facebook.com/pages/Hill-Country-Church-PCA/147502275306176</facebook-page>
+			<mission-church>Yes</mission-church>
+		</entry>
+		<entry id="140" people="3" events="1" states="1">
+			<display-name handle="lakeside-presbyterian-church-southlake">Lakeside Presbyterian Church - Southlake</display-name>
+			<name handle="lakeside-presbyterian-church">Lakeside Presbyterian Church</name>
+			<street-address handle="2701-west-southlake-blvd">2701 West Southlake Blvd</street-address>
+			<city handle="southlake">Southlake</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76092">76092</zip-code>
+			<main-phone handle="817-431-0151">817-431-0151</main-phone>
+			<website handle="http-wwwlakesidepcaorg">http://www.lakesidepca.org</website>
+			<sermon-podcast-link handle="http-sermonnet-rss-lakesidepca-main">http://sermon.net/rss/lakesidepca/main</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="120" people="2" events="1" states="1">
+			<display-name handle="lakewood-presbyterian-church-dallas">Lakewood Presbyterian Church - Dallas</display-name>
+			<name handle="lakewood-presbyterian-church">Lakewood Presbyterian Church</name>
+			<street-address handle="7020-gaston-ave">7020 Gaston Ave</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75214">75214</zip-code>
+			<main-phone handle="214-321-2864">214-321-2864</main-phone>
+			<website handle="http-lakewoodpcacom">http://lakewoodpca.com</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="473" people="1" events="0" states="1">
+			<display-name handle="mercy-presbyterian-church-dallas">Mercy Presbyterian Church - Dallas</display-name>
+			<name handle="mercy-presbyterian-church">Mercy Presbyterian Church</name>
+			<street-address handle="6930-alpha-rd">6930 Alpha Rd</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75240">75240</zip-code>
+			<main-phone handle="972-918-5166">972-918-5166</main-phone>
+			<website handle="http-wwwmercydallascom">http://www.mercydallas.com</website>
+			<facebook-page handle="https-wwwfacebookcom-pages-mercy-presbyterian-church-733943449951020-ref=hl">https://www.facebook.com/pages/Mercy-Presbyterian-Church/733943449951020?ref=hl</facebook-page>
+			<twitter handle="https-twittercom-mercydallas">https://twitter.com/mercydallas</twitter>
+			<mission-church>Yes</mission-church>
+			<note mode="formatted">
+</note>
+		</entry>
+		<entry id="116" people="4" events="0" states="1">
+			<display-name handle="metrocrest-presbyterian-church-carrollton">Metrocrest Presbyterian Church - Carrollton</display-name>
+			<name handle="metrocrest-presbyterian-church">Metrocrest Presbyterian Church</name>
+			<street-address handle="1265-e-hebron-parkway">1265 E. Hebron Parkway</street-address>
+			<city handle="carrollton">Carrollton</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75010">75010</zip-code>
+			<website handle="http-wwwmetrocrestchurchorg">http://www.metrocrestchurch.org</website>
+			<sermon-podcast-link handle="http-wwwsermonaudiocom-rss-sourceasp-sourceid=metrocrestchurch">http://www.sermonaudio.com/rss_source.asp?SourceID=metrocrestchurch</sermon-podcast-link>
+			<facebook-page handle="http-wwwfacebookcom-metrocrestpca">http://www.facebook.com/MetrocrestPCA</facebook-page>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="121" people="4" events="0" states="1">
+			<display-name handle="new-covenant-presbyterian-church-dallas">New Covenant Presbyterian Church - Dallas</display-name>
+			<name handle="new-covenant-presbyterian-church">New Covenant Presbyterian Church</name>
+			<street-address handle="2525-n-buckner-blvd">2525 N. Buckner Blvd</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75228">75228</zip-code>
+			<main-phone handle="214-321-6435">214-321-6435</main-phone>
+			<website handle="http-wwwncpcdallasorg">http://www.ncpcdallas.org</website>
+			<sermon-podcast-link handle="http-wwwncpcdallasorg-podcast">http://www.ncpcdallas.org/podcast/</sermon-podcast-link>
+			<facebook-page handle="http-wwwfacebookcom-pages-new-covenant-presbyterian-church-213278059714">http://www.facebook.com/pages/New-Covenant-Presbyterian-Church/213278059714</facebook-page>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="499" people="1" events="0" states="1">
+			<display-name handle="new-hope-presbyterian-church-richardson">New Hope Presbyterian Church - Richardson</display-name>
+			<name handle="new-hope-presbyterian-church">New Hope Presbyterian Church</name>
+			<street-address handle="1321-northlake-dr">1321 Northlake Dr</street-address>
+			<city handle="richardson">Richardson</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75080">75080</zip-code>
+			<mission-church>Yes</mission-church>
+			<note mode="formatted">
+</note>
+			<note-start iso="2014-08-06T00:00:00-05:00" time="00:00" weekday="3" offset="-0500">2014-08-06</note-start>
+			<note-expires iso="2014-09-01T00:00:00-05:00" time="00:00" weekday="1" offset="-0500">2014-09-01</note-expires>
+		</entry>
+		<entry id="122" people="3" events="0" states="1">
+			<display-name handle="new-st-peters-presbyterian-church-dallas">New St. Peters Presbyterian Church - Dallas</display-name>
+			<name handle="new-st-peters-presbyterian-church">New St. Peters Presbyterian Church</name>
+			<street-address handle="5938-skillman-st">5938 Skillman St</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75231">75231</zip-code>
+			<website handle="http-wwwnewstpetersorg">http://www.newstpeters.org</website>
+			<sermon-podcast-link handle="http-wwwbuzzsproutcom-87rss">http://www.buzzsprout.com/87.rss</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="123" people="25" events="2" states="1">
+			<display-name handle="park-cities-presbyterian-church-dallas">Park Cities Presbyterian Church - Dallas</display-name>
+			<name handle="park-cities-presbyterian-church">Park Cities Presbyterian Church</name>
+			<street-address handle="4124-oak-lawn-ave">4124 Oak Lawn Ave.</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75219">75219</zip-code>
+			<main-phone handle="214-224-2500">214-224-2500</main-phone>
+			<website handle="http-wwwpcpcorg">http://www.pcpc.org</website>
+			<sermon-podcast-link handle="http-feeds2feedburnercom-ntp-pcpc-morning">http://feeds2.feedburner.com/ntp_pcpc_morning</sermon-podcast-link>
+			<facebook-page handle="http-wwwfacebookcom-parkcitiespca">http://www.facebook.com/ParkCitiesPCA</facebook-page>
+			<twitter handle="http-twittercom-pcpcnews">http://twitter.com/pcpcnews</twitter>
+			<google-plus handle="http-gplusto-parkcitiespresbyterian">http://gplus.to/parkcitiespresbyterian</google-plus>
+			<vimeo-channel handle="http-vimeocom-pcpc">http://vimeo.com/pcpc</vimeo-channel>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="124" people="3" events="1" states="1">
+			<display-name handle="providence-presbyterian-church-dallas">Providence Presbyterian Church - Dallas</display-name>
+			<name handle="providence-presbyterian-church">Providence Presbyterian Church</name>
+			<street-address handle="10727-midway-road">10727 Midway Road</street-address>
+			<city handle="dallas">Dallas</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75229">75229</zip-code>
+			<main-phone handle="214-270-1220">214-270-1220</main-phone>
+			<website handle="http-wwwprovidencedallascom">http://www.providencedallas.com</website>
+			<sermon-podcast-link handle="http-feeds2feedburnercom-ntp-providencedallas">http://feeds2.feedburner.com/ntp_providencedallas</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="133" people="2" events="0" states="1">
+			<display-name handle="providence-presbyterian-church-lubbock">Providence Presbyterian Church - Lubbock</display-name>
+			<name handle="providence-presbyterian-church">Providence Presbyterian Church</name>
+			<street-address handle="3301-34th-street">3301 34th Street</street-address>
+			<city handle="lubbock">Lubbock</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="79410">79410</zip-code>
+			<website handle="http-wwwprovidencepcaorg">http://www.providencepca.org</website>
+			<sermon-podcast-link handle="http-feedsfeedburnercom-providencepresbyterianchurchpca">http://feeds.feedburner.com/ProvidencePresbyterianChurchPCA</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="135" people="1" events="0" states="1">
+			<display-name handle="providence-presbyterian-church-midland">Providence Presbyterian Church - Midland</display-name>
+			<name handle="providence-presbyterian-church">Providence Presbyterian Church</name>
+			<street-address handle="2900-princeton-avenue">2900 Princeton Avenue</street-address>
+			<city handle="midland">Midland</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="79701">79701</zip-code>
+			<main-phone handle="432-520-5255">432-520-5255</main-phone>
+			<website handle="http-providencemidlandorg">http://providencemidland.org/</website>
+			<sermon-podcast-link handle="http-providencemidlandorg-media-preachit-preachitxml">http://providencemidland.org/media/preachit/preachit.xml</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="304" people="1" events="0" states="1">
+			<display-name handle="redeemer-presbyterian-church-amarillo">Redeemer Presbyterian Church - Amarillo</display-name>
+			<name handle="redeemer-presbyterian-church">Redeemer Presbyterian Church</name>
+			<street-address handle="3001-wolflin-avenue">3001 Wolflin Avenue</street-address>
+			<city handle="amarillo">Amarillo</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="79109">79109</zip-code>
+			<main-phone handle="806-358-9001">806-358-9001</main-phone>
+			<website handle="http-wwwredeemeramarillocom">http://www.redeemeramarillo.com</website>
+			<sermon-podcast-link handle="http-wwwsermonaudiocom-rss-sourcerss-sourceid=redeemeramarillo-and-filter=mp3">http://www.sermonaudio.com/rss_source.rss?sourceid=redeemeramarillo&amp;filter=mp3</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="188" people="2" events="0" states="1">
+			<display-name handle="redeemer-presbyterian-church-edmond">Redeemer Presbyterian Church - Edmond</display-name>
+			<name handle="redeemer-presbyterian-church">Redeemer Presbyterian Church</name>
+			<street-address handle="21477-n-western-ave">21477 N Western Ave</street-address>
+			<city handle="edmond">Edmond</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="73012">73012</zip-code>
+			<main-phone handle="254-723-4287">254-723-4287</main-phone>
+			<website handle="http-wwwredeemerpcaedmondorg">http://www.redeemerpcaedmond.org</website>
+			<sermon-podcast-link handle="http-wwwredeemerpcaedmondorg-common-rss2-channel=multimedia">http://www.redeemerpcaedmond.org/common/rss2/?channel=multimedia</sermon-podcast-link>
+			<mission-church>No</mission-church>
+			<note mode="formatted">
+</note>
+		</entry>
+		<entry id="134" people="2" events="1" states="1">
+			<display-name handle="redeemer-presbyterian-church-mckinney">Redeemer Presbyterian Church - McKinney</display-name>
+			<name handle="redeemer-presbyterian-church">Redeemer Presbyterian Church</name>
+			<street-address handle="7820-silverado-trail">7820 Silverado Trail</street-address>
+			<city handle="mckinney">McKinney</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<main-phone handle="972-529-1502">972-529-1502</main-phone>
+			<website handle="http-wwwredeemer-mckinneyorg">http://www.redeemer-mckinney.org</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="338" people="1" events="0" states="1">
+			<display-name handle="redeemer-presbyterian-church-temple">Redeemer Presbyterian Church - Temple</display-name>
+			<name handle="redeemer-presbyterian-church">Redeemer Presbyterian Church</name>
+			<street-address handle="cultural-activities-center-3011-north-3rd-street">Cultural Activities Center, 3011 North 3rd Street</street-address>
+			<city handle="temple">Temple</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76501">76501</zip-code>
+			<main-phone handle="254-760-4246">254-760-4246</main-phone>
+			<website handle="http-wwwredeemerprestempleorg">http://www.redeemerprestemple.org</website>
+			<sermon-podcast-link handle="http-wwwredeemerprestempleorg-feed-blog-510">http://www.redeemerprestemple.org/feed/blog/510</sermon-podcast-link>
+			<mission-church>Yes</mission-church>
+		</entry>
+		<entry id="142" people="2" events="0" states="1">
+			<display-name handle="redeemer-presbyterian-church-waco">Redeemer Presbyterian Church - Waco</display-name>
+			<name handle="redeemer-presbyterian-church">Redeemer Presbyterian Church</name>
+			<street-address handle="2501-ritchie-road">2501 Ritchie Road </street-address>
+			<city handle="waco">Waco</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76712">76712</zip-code>
+			<main-phone handle="254-776-7292">254-776-7292</main-phone>
+			<website handle="http-wwwredeemerwacoorg">http://www.redeemerwaco.org</website>
+			<sermon-podcast-link handle="http-fignowsproutingcom-redeemerpresbyterianchurch3-podcastphp-pageid=6">http://fig.nowsprouting.com/redeemerpresbyterianchurch3/podcast.php?pageID=6</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="150" people="2" events="1" states="1">
+			<display-name handle="river-oaks-presbyterian-church-tulsa">River Oaks Presbyterian Church - Tulsa</display-name>
+			<name handle="river-oaks-presbyterian-church">River Oaks Presbyterian Church</name>
+			<street-address handle="5150-east-101st-street">5150 East 101st Street</street-address>
+			<city handle="tulsa">Tulsa</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<zip-code handle="74137">74137</zip-code>
+			<main-phone handle="918-346-4850">918-346-4850</main-phone>
+			<website handle="http-riveroakstulsacom">http://riveroakstulsa.com/</website>
+			<sermon-podcast-link handle="http-riveroakstulsacom-feeds-sermons">http://riveroakstulsa.com/feeds/sermons</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="131" people="3" events="1" states="1">
+			<display-name handle="sherwood-shores-chapel-gordonville">Sherwood Shores Chapel - Gordonville</display-name>
+			<name handle="sherwood-shores-chapel">Sherwood Shores Chapel</name>
+			<street-address handle="969-hillcrest-circle">969 Hillcrest Circle</street-address>
+			<city handle="gordonville">Gordonville</city>
+			<remove-city-from-google-map>Yes</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76245">76245</zip-code>
+			<main-phone handle="903-523-5217">903-523-5217</main-phone>
+			<website handle="http-wwwsherwoodshoreschapelorg">http://www.sherwoodshoreschapel.org</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="138" people="5" events="1" states="1">
+			<display-name handle="town-north-presbyterian-church-richardson">Town North Presbyterian Church - Richardson</display-name>
+			<name handle="town-north-presbyterian-church">Town North Presbyterian Church</name>
+			<street-address handle="1776-n-plano-road">1776 N. Plano Road</street-address>
+			<city handle="richardson">Richardson</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75081">75081</zip-code>
+			<main-phone handle="972-235-1886">972-235-1886</main-phone>
+			<website handle="http-wwwtnpcorg">http://www.tnpc.org</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="139" people="1" events="0" states="1">
+			<display-name handle="trinity-harbor-church-rockwall">Trinity Harbor Church - Rockwall</display-name>
+			<name handle="trinity-harbor-church">Trinity Harbor Church</name>
+			<street-address handle="306-e-rusk-st">306 E Rusk St</street-address>
+			<city handle="rockwall">Rockwall</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75087">75087</zip-code>
+			<main-phone handle="972-772-8208">972-772-8208</main-phone>
+			<website handle="http-wwwtrinityharborchurchcom">http://www.trinityharborchurch.com</website>
+			<sermon-podcast-link handle="http-ntpresbyorg-workspace-static-xml-feeds-trinity-harbor-rockwall-sermonsxml">http://ntpresby.org/workspace/static-xml/feeds/trinity-harbor-rockwall/sermons.xml</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="368" people="1" events="0" states="1">
+			<display-name handle="trinity-presbyterian-church-owasso">Trinity Presbyterian Church - Owasso</display-name>
+			<name handle="trinity-presbyterian-church">Trinity Presbyterian Church</name>
+			<street-address handle="12899-e-76th-st-n">12899 E. 76th St. N.</street-address>
+			<city handle="owasso">Owasso</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="432">
+					<name handle="oklahoma">Oklahoma</name>
+					<abbreviation handle="ok">OK</abbreviation>
+					<capital handle="oklahoma-city">Oklahoma City</capital>
+					<admission-into-the-union handle="1907-11-16">1907-11-16</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle=""/>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="ok">OK</state-abbr>
+			<website handle="http-wwwtrinityowassocom">http://www.trinityowasso.com</website>
+			<sermon-podcast-link handle="http-feedsfeedburnercom-trinitypresbyterianchurch-sermonaudio">http://feeds.feedburner.com/TrinityPresbyterianChurch-SermonAudio</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="137" people="4" events="2" states="1">
+			<display-name handle="trinity-presbyterian-church-plano">Trinity Presbyterian Church - Plano</display-name>
+			<name handle="trinity-presbyterian-church">Trinity Presbyterian Church</name>
+			<street-address handle="4701-hedgcoxe-road">4701 Hedgcoxe Road </street-address>
+			<city handle="plano">Plano</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75024">75024</zip-code>
+			<main-phone handle="972-335-3844">972-335-3844</main-phone>
+			<website handle="http-wwwtrinityplanoorg">http://www.trinityplano.org</website>
+			<mission-church>No</mission-church>
+			<note mode="formatted">
+</note>
+		</entry>
+		<entry id="143" people="2" events="0" states="1">
+			<display-name handle="weatherford-presbyterian-church-weatherford">Weatherford Presbyterian Church - Weatherford</display-name>
+			<name handle="weatherford-presbyterian-church">Weatherford Presbyterian Church</name>
+			<street-address handle="204-s-main-st">204 S. Main St.</street-address>
+			<city handle="weatherford">Weatherford</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="76086">76086</zip-code>
+			<main-phone handle="817-598-1277">817-598-1277</main-phone>
+			<website handle="http-weatherfordpcaorg">http://weatherfordpca.org</website>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="129" people="1" events="0" states="1">
+			<display-name handle="westminster-presbyterian-church-gainesville">Westminster Presbyterian Church - Gainesville</display-name>
+			<name handle="westminster-presbyterian-church">Westminster Presbyterian Church</name>
+			<street-address handle="315-e-scott-street">315 E. Scott Street</street-address>
+			<city handle="gainesville">Gainesville</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<main-phone handle="940-665-5164">940-665-5164</main-phone>
+			<website handle="http-wwwwpcgtxorg">http://www.wpcgtx.org</website>
+			<sermon-podcast-link handle="http-feeds2feedburnercom-ntp-westerminster-gainesville-tx">http://feeds2.feedburner.com/ntp_westerminster-gainesville-tx</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+		<entry id="130" people="2" events="0" states="1">
+			<display-name handle="westminster-presbyterian-church-greenville">Westminster Presbyterian Church - Greenville</display-name>
+			<name handle="westminster-presbyterian-church">Westminster Presbyterian Church</name>
+			<street-address handle="2817-kari-lane">2817 Kari Lane</street-address>
+			<city handle="greenville">Greenville</city>
+			<remove-city-from-google-map>No</remove-city-from-google-map>
+			<state field-id="191" subsection-id="27" items="1">
+				<item id="439">
+					<name handle="texas">Texas</name>
+					<abbreviation handle="tx">TX</abbreviation>
+					<capital handle="austin">Austin</capital>
+					<admission-into-the-union handle="1845-12-29">1845-12-29</admission-into-the-union>
+					<time-zone handle="cst-utc-06">CST (UTC-06)</time-zone>
+					<time-zone-2 handle="mt-utc-07">MT (UTC-07)</time-zone-2>
+					<dst>Yes</dst>
+				</item>
+			</state>
+			<state-abbr handle="tx">TX</state-abbr>
+			<zip-code handle="75402">75402</zip-code>
+			<main-phone handle="903-454-3470">903-454-3470</main-phone>
+			<website handle="http-wwwwestminstergreenvillecom">http://www.westminstergreenville.com</website>
+			<sermon-podcast-link handle="http-feeds2feedburnercom-ntp-westminstergreenville">http://feeds2.feedburner.com/ntp_westminstergreenville</sermon-podcast-link>
+			<mission-church>No</mission-church>
+		</entry>
+	</churches-by-id>
+</data>

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "pixel418/markdownify",
+        "version": "v2.1.6",
+        "version_normalized": "2.1.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Pixel418/Markdownify.git",
+            "reference": "66c987b8863140e831fc0c67e68363e018ab7a28"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Pixel418/Markdownify/zipball/66c987b8863140e831fc0c67e68363e018ab7a28",
+            "reference": "66c987b8863140e831fc0c67e68363e018ab7a28",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2014-07-14 10:04:22",
+        "type": "lib",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Markdownify": "src",
+                "Test\\Markdownify": "test"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Peter Kruithof",
+                "email": "pkruithof@gmail.com",
+                "homepage": "http://pkruithof.tumblr.com/"
+            },
+            {
+                "name": "Milian Wolff",
+                "email": "mail@milianw.de",
+                "homepage": "http://milianw.de"
+            }
+        ],
+        "description": "The HTML to Markdown converter for PHP ",
+        "homepage": "https://github.com/pixel418/Markdownify",
+        "keywords": [
+            "markdown",
+            "markdownify"
+        ]
+    }
+]
